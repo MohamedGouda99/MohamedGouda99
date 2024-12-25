@@ -1,5 +1,5 @@
 # 💫 About Me:
-Skilled DevOps Engineer with less than 1 year of hands-on experience supporting, automating, and optimizing mission critical deployments in AWS, leveraging configuration management, CI/CD, and DevOps processes. Dedicated to optimization, experienced DevOps Engineer understands the melding of operations and development to quickly deliver code. Has experience with Cloud and monitoring process as well as DevOps development in windows and Linux systems. Brings a Bachelor’s Degree in Electrical, Electronics and Communication Engineering and experience working as a DevOps Engineer since shortly after the concept was introduced.
+Skilled DevOps Engineer with less than 3 year of hands-on experience supporting, automating, and optimizing mission critical deployments in AWS, leveraging configuration management, CI/CD, and DevOps processes. Dedicated to optimization, experienced DevOps Engineer understands the melding of operations and development to quickly deliver code. Has experience with Cloud and monitoring process as well as DevOps development in windows and Linux systems. Brings a Bachelor’s Degree in Electrical, Electronics and Communication Engineering and experience working as a DevOps Engineer since shortly after the concept was introduced.
 
 
 ## 🌐 Socials:
